@@ -1,0 +1,19 @@
+{
+  "name": "visibility.js",
+  "version": "1.0.0",
+  "description": "HTML5 Visibility API wrapper with some utilities",
+  "main": "visibility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lourian@github.com/lourian/visibilityjs.git"
+  },
+  "author": "Lourian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lourian/visibilityjs/issues"
+  },
+  "homepage": "https://github.com/lourian/visibilityjs#readme"
+}

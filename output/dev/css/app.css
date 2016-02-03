@@ -1,0 +1,16 @@
+div.log_load {
+	color: yellow;
+}
+
+div.log_shown {
+	color: green;
+}
+
+div.log_hidden {
+	color: red;
+}
+
+div.scrollable {
+	height: 250px;
+	overflow: auto;
+}
